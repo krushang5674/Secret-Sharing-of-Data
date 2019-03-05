@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ehr>
+  <form>
+    <name>Krushang</name>
+    <sur_name>Patel</sur_name>
+    <s_age>22</s_age>
+    <gen_der>male</gen_der>
+    <add_ress>47/394 Unnat Nagar-2, Goregaon(West)</add_ress>
+    <doc_tor>asdasdasd</doc_tor>
+    <da_te>qdadasdads</da_te>
+    <sum_mary>qweqweqweq</sum_mary>
+    <diag_nose>qweqweqweqe</diag_nose>
+    <invest_gt>qweqqweqweqe</invest_gt>
+    <rep_ort>qweqweqweqweqwe</rep_ort>
+    <ad_vice>qweqweqweqweqw</ad_vice>
+    <ob_serve>qweqweqweqwe</ob_serve>
+    <follow_up>qweqweqweqwe</follow_up>
+  </form>
+  <form>
+    <name>viraj</name>
+    <sur_name>sawant</sur_name>
+    <s_age>22</s_age>
+    <gen_der>male</gen_der>
+    <add_ress>dsadsads</add_ress>
+    <doc_tor>asdasdasda</doc_tor>
+    <da_te>dasdasd</da_te>
+    <sum_mary>afsfsdfsda</sum_mary>
+    <diag_nose>adsadfsaasg</diag_nose>
+    <invest_gt>asdfsdfasdfsdf</invest_gt>
+    <rep_ort>sadgsgasdasdf</rep_ort>
+    <ad_vice>asfdsfasfsaf</ad_vice>
+    <ob_serve>sdafqqrewqw</ob_serve>
+    <follow_up>sasfsadfasdfsf</follow_up>
+  </form>
+</ehr>
